@@ -1,5 +1,5 @@
 <h1>Hello ! I'm Mohammadsam</h1>
-![img](https://mshomayouni.ir/wp-content/uploads/2024/09/image-1-scaled.webp)
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpeg?raw=true)
 <h2>please donait me with visiting my website</h2>
 https://mshomayouni.ir/
 <h2>⚡more about me⚡</h2>
