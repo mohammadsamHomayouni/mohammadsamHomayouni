@@ -10,13 +10,13 @@ https://mshomayouni.ir/
 please visit my youtube channel :https://www.youtube.com/@Pixelprogrammeri
 
 
-#########################################################################################################
+#####################################################################################################
 <h2>☣my projects !</h2>
 ✅Kalamito preview , it's an AI made in pytorch , now me and my friends are working in this project.
 🚩My website , It's a website learns you how to use wordpress and Html, Css, JS.
 🔥My youtube , It's the way to learn how to use AIs for free and how to tell them prompts.
 🪐please visit my website! mshomayouni.ir!🪐
-<h2>-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-</h2>
+<h2>-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-</h2>
 <h2>🪐my github projects</h2>
 </h2>🪐ASCII generator🪐</h2>
 </h2>🪐Warp for IRI (updating)🪐</h2>
