@@ -9,3 +9,17 @@ https://mshomayouni.ir/
 <h5>now my best enjoy is programming with simple game programmings like Gamemaker and appinventor</h5>
 please visit my youtube channel :https://www.youtube.com/@Pixelprogrammeri
 
+
+#########################################################################################################
+<h2>☣my projects !</h2>
+✅Kalamito preview , it's an AI made in pytorch , now me and my friends are working in this project.
+🚩My website , It's a website learns you how to use wordpress and Html, Css, JS.
+🔥My youtube , It's the way to learn how to use AIs for free and how to tell them prompts.
+🪐please visit my website! mshomayouni.ir!🪐
+<h2>-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-</h2>
+<h2>🪐my github projects</h2>
+</h2>🪐ASCII generator🪐</h2>
+</h2>🪐Warp for IRI (updating)🪐</h2>
+</h2>🪐Kill 403 for IRI (soon...)🪐</h2>
+</h2>🪐E2E Tor chatroom (soon...)🪐</h2>
+</h2>🪐Kalamito open source (soon...)🪐</h2>
