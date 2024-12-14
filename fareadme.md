@@ -1,3 +1,4 @@
+<a href="https://github.com/mohammadsamHomayouni/mohammadsamHomayouni/blob/main/readme.md">English - انگلیسی</a>
 <h1>سلام! من محمدسام هستم</h1>
 <h4>یک نوجوان برنامه‌نویس وب که با JS، HTML و CSS کار می‌کنه</h4>
 
